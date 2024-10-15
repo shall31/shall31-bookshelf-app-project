@@ -15,9 +15,3 @@ Projek ini dibuat untuk memenuhi **Submission Belajar Membuat Front-End untuk Pe
 - **HTML**: Untuk struktur halaman web.
 - **JavaScript**: Untuk logika dan interaktivitas aplikasi.
 - **Local Storage**: Untuk menyimpan data buku secara permanen di browser pengguna.
-
-## Instalasi dan Penggunaan
-
-1. **Clone repository** ini ke direktori lokal Anda:
-   ```bash
-   git clone https://github.com/username/bookshelf-app.git
